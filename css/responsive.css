@@ -1,0 +1,124 @@
+@media (max-width: 575px) {
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+
+  .navbar {
+    background-color: rgb(23, 13, 110);
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .navbar-nav {
+    margin-bottom: 4px;
+  }
+  .nav_btn button {
+    padding: 18px 57px;
+    font-size: 20px;
+  }
+  .banner_content h1 {
+    font-size: 30px;
+    line-height: 41px;
+    padding: 0px 25px;
+  }
+  .row {
+    margin-top: 10px;
+  }
+  .banner_content p {
+    font-size: 16px;
+    line-height: 22px;
+    padding: 22px 33px;
+  }
+  .ban_btn_quote button {
+    padding: 13px 26px;
+    border-radius: 50px;
+    font-size: 13px;
+  }
+  .ban_btn_learn button {
+    padding: 13px 26px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 12px;
+  }
+  #banner {
+    padding-top: 100px;
+    padding-bottom: 80px;
+  }
+  #galary {
+    padding: 30px 0;
+  }
+  .happy h2 {
+    font-size: 40px;
+    line-height: 68px;
+  }
+  .happy h4 {
+    font-size: 24px;
+    line-height: 10px;
+  }
+  .project h2 {
+    font-size: 40px;
+    line-height: 89px;
+  }
+  .project h4 {
+    font-size: 24px;
+    line-height: 10px;
+  }
+  .award h2 {
+    font-size: 40px;
+    line-height: 68px;
+  }
+  .award h4 {
+    font-size: 24px;
+    line-height: 40px;
+  }
+  .years h2 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  .years h4 {
+    font-size: 24px;
+    line-height: 40px;
+  }
+  .left-wrapper {
+    padding: 0 91px;
+  }
+  #choose {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .right_content h3 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  .right_content p {
+    padding: 10px 72px;
+  }
+  .right_content .nav_btn {
+    text-align: center;
+  }
+  .service-text {
+    text-align: center;
+  }
+  .service-text p {
+    padding: 10px 30px;
+  }
+  #service-box-part {
+    padding-top: 50px;
+  }
+  .real_header h2 {
+    font-size: 37px;
+  }
+  .real_header p {
+    font-size: 16px;
+  }
+  #real_part {
+    padding-bottom: 0px;
+  }
+  .cards {
+    margin: auto;
+  }
+  .web_design {
+    margin: 40px 0;
+  }
+}

@@ -1,0 +1,17 @@
+.squre {
+  width: 700px;
+  height: 400px;
+  background-color: green;
+  position: relative;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: red;
+  position: absolute;
+  left: 50%;
+  bottom: 50%;
+  transform: translate(-50%, -50%);
+}
